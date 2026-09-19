@@ -80,7 +80,7 @@ The broader work combines **news-based risk measurement, time-series analysis, s
 **B.Sc. — Government Institute of Science, Nagpur**  
 2019–2022 · **91.70%**
 
-My postgraduate training included **analysis, algebra, topology, differential equations, probability and statistics, numerical analysis, mathematical programming, machine learning, and data mining**. :contentReference[oaicite:2]{index=2}
+My postgraduate training included **analysis, algebra, topology, differential equations, probability and statistics, numerical analysis, mathematical programming, machine learning, and data mining**.
 
 ---
 
@@ -100,14 +100,6 @@ My postgraduate training included **analysis, algebra, topology, differential eq
 I am interested in research questions where **mathematical foundations, statistical learning, machine learning, and structured knowledge** can work together to address problems involving learning, representation, reasoning, and data-driven decision making.
 
 ---
-
-## Connect
-
-**[Academic Website](YOUR_ACADEMIC_WEBSITE)** ·
-**[LinkedIn](YOUR_LINKEDIN_PROFILE)** ·
-**[Google Scholar](YOUR_GOOGLE_SCHOLAR_PROFILE)** ·
-**[ORCID](YOUR_ORCID_PROFILE)**
-
+> **Mathematical structure helps us understand the problem; data helps us discover what the model may be missing.**
 ---
 
-> **Mathematical structure helps us understand the problem; data helps us discover what the model may be missing.**
