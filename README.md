@@ -3,18 +3,22 @@
 ### Mathematics Researcher
 **Statistical Learning · Machine Learning & Data Mining · Knowledge Representation · Knowledge Graphs · Natural Language Processing**
 
-I work at the intersection of **mathematics, statistics, machine learning, and structured knowledge**, with an interest in understanding how data, mathematical structure, and computational methods can be combined to support learning and reasoning in intelligent systems.
+I work at the intersection of **mathematics, statistics, machine learning, and structured knowledge**, with an interest in how mathematical structure, data, and computational methods can be brought together to support learning, reasoning, and intelligent information systems.
 
-My research experience spans **knowledge representation for healthcare question answering** and **quantitative analysis of high-frequency financial markets under geopolitical shocks**. I enjoy working on problems where mathematical reasoning meets real-world data and computational modelling.
+My research experience spans two complementary directions: **knowledge representation for healthcare question answering** and **quantitative analysis of high-frequency financial markets under geopolitical shocks**. I enjoy working on problems where mathematical ideas meet real-world data and computational modelling.
 
 ---
 
 ## Research Interests
 
-`Statistical Learning` · `Machine Learning` · `Data Mining`  
-`Knowledge Representation` · `Knowledge Graphs`  
-`Natural Language Processing` · `Mathematical Modelling`  
-`Intelligent Information Systems`
+| Area | Focus |
+|---|---|
+| **Statistical Learning** | Statistical methods, inference, data-driven modelling |
+| **Machine Learning & Data Mining** | Regression, classification, clustering, learning from structured data |
+| **Knowledge Representation** | Structured knowledge, ontologies, semantic modelling |
+| **Knowledge Graphs** | Graph-based representations, relationships, information retrieval |
+| **Natural Language Processing** | Text classification and language-oriented data analysis |
+| **Mathematical Modelling** | Mathematical and computational approaches to applied problems |
 
 ---
 
@@ -25,37 +29,49 @@ My research experience spans **knowledge representation for healthcare question 
 
 <br>
 
-**Published research — Springer, 2026**
+### Published Research — Springer, 2026
 
-*Knowledge Representation for Healthcare Systems: A Comparative Analysis of Performance of Different Representation Paradigms*
+**_Knowledge Representation for Healthcare Systems: A Comparative Analysis of Performance of Different Representation Paradigms_**
 
 A comparative study of **seven knowledge-representation paradigms** for healthcare question answering across increasing levels of reasoning complexity.
 
-The study used a benchmark of **47 cardiovascular patient records and five clinical queries**, evaluating representation paradigms through **query coverage, reasoning depth, and explainability**. Knowledge Graphs achieved complete benchmark coverage while supporting multi-hop and contextual reasoning.
+The study used a benchmark of **47 cardiovascular patient records and five clinical queries**, evaluating the representation paradigms through **query coverage, reasoning depth, and explainability**.
+
+**Key finding:** Knowledge Graphs achieved complete benchmark coverage while supporting **multi-hop and contextual reasoning**.
 
 **Publication:** *Intelligent Computing: Proceedings of the 2026 Computing Conference*, Springer  
 **DOI:** [10.1007/978-3-032-24807-7_4](https://doi.org/10.1007/978-3-032-24807-7_4)
 
 </details>
 
+<br>
+
 <details>
 <summary><strong>02 · Geopolitical Risk & High-Frequency Financial Markets</strong></summary>
 
 <br>
 
-**Collaborative research — Manuscript under review**
+### Collaborative Research — Manuscript Under Review
 
-Research investigating how geopolitical shocks are reflected in **cryptocurrency and traditional financial markets** using time-stamped geopolitical news and hourly financial data.
+Ongoing research examining how **geopolitical shocks** are reflected in cryptocurrency and traditional financial markets using **time-stamped geopolitical news** and **hourly financial data**.
 
-The study develops an **Hourly War Risk Index (HWRI)** to characterize escalation and de-escalation shocks and connects these events with high-frequency market movements. The analysis uses **Abnormal Returns (AR), Cumulative Abnormal Returns (CAR), and Cumulative Average Abnormal Returns (CAAR)** across multiple event windows.
+The study develops an **Hourly War Risk Index (HWRI)** to characterize periods of escalation and de-escalation and connects these events with high-frequency market movements.
 
-The broader work combines **news-based risk measurement, time-series analysis, statistical learning, statistical inference, and financial econometrics** to examine heterogeneous asset-level responses.
+The analysis employs event-study methods based on:
+
+- **Abnormal Returns (AR)**
+- **Cumulative Abnormal Returns (CAR)**
+- **Cumulative Average Abnormal Returns (CAAR)**
+
+across multiple event windows.
+
+The broader study brings together **news-based risk measurement, time-series analysis, statistical learning, statistical inference, and financial econometrics** to examine heterogeneous asset-level responses to geopolitical shocks.
 
 </details>
 
 ---
 
-## Technical Interests & Tools
+## Technical Toolkit
 
 ### Programming & Data
 `Python` · `SQL` · `C` · `C++` · `LaTeX`
@@ -75,10 +91,10 @@ The broader work combines **news-based risk measurement, time-series analysis, s
 ## Academic Background
 
 **M.Sc. Mathematics — Indian Institute of Technology Delhi**  
-2023–2025 · CGPA: **7.65/10**
+`2023–2025` · **CGPA: 7.65/10**
 
 **B.Sc. — Government Institute of Science, Nagpur**  
-2019–2022 · **91.70%**
+`2019–2022` · **91.70%**
 
 My postgraduate training included **analysis, algebra, topology, differential equations, probability and statistics, numerical analysis, mathematical programming, machine learning, and data mining**.
 
@@ -97,9 +113,12 @@ My postgraduate training included **analysis, algebra, topology, differential eq
 
 ## Current Research Direction
 
-I am interested in research questions where **mathematical foundations, statistical learning, machine learning, and structured knowledge** can work together to address problems involving learning, representation, reasoning, and data-driven decision making.
+I am interested in research questions that connect **mathematical foundations, statistical learning, machine learning, and structured knowledge** to problems involving:
+
+`Learning` · `Representation` · `Reasoning` · `Data-driven Modelling` · `Intelligent Systems`
 
 ---
+
+
+
 > **Mathematical structure helps us understand the problem; data helps us discover what the model may be missing.**
----
-
