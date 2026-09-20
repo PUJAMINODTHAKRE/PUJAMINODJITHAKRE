@@ -1,124 +1,200 @@
-# Puja Minodji Thakre
+PUJA MINODJI THAKRE
 
-### Mathematics Researcher
-**Statistical Learning · Machine Learning & Data Mining · Knowledge Representation · Knowledge Graphs · Natural Language Processing**
+Mathematics Researcher · Statistical Learning · Data Mining · Knowledge Representation
 
-I work at the intersection of **mathematics, statistics, machine learning, and structured knowledge**, with an interest in how mathematical structure, data, and computational methods can be brought together to support learning, reasoning, and intelligent information systems.
+I work at the intersection of mathematics, statistics, machine learning, and structured knowledge, with a particular interest in how mathematical structure and data-driven methods can be combined to support learning, representation, reasoning, and intelligent information systems.
 
-My research experience spans two complementary directions: **knowledge representation for healthcare question answering** and **quantitative analysis of high-frequency financial markets under geopolitical shocks**. I enjoy working on problems where mathematical ideas meet real-world data and computational modelling.
+My research experience currently spans two complementary directions: knowledge representation for healthcare question answering and high-frequency analysis of financial markets under geopolitical shocks.
 
----
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=FoOvhlQAAAAJ&hl=en&authuser=6">Google Scholar</a>
+  &nbsp;·&nbsp;
+  <a href="https://orcid.org/0009-0001-7924-5363">ORCID</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/puja-minodji-thakre/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/PUJAMINODTHAKRE">GitHub</a>
+</p>
 
-## Research Interests
+Research at a Glance
 
-| Area | Focus |
-|---|---|
-| **Statistical Learning** | Statistical methods, inference, data-driven modelling |
-| **Machine Learning & Data Mining** | Regression, classification, clustering, learning from structured data |
-| **Knowledge Representation** | Structured knowledge, ontologies, semantic modelling |
-| **Knowledge Graphs** | Graph-based representations, relationships, information retrieval |
-| **Natural Language Processing** | Text classification and language-oriented data analysis |
-| **Mathematical Modelling** | Mathematical and computational approaches to applied problems |
+Research direction
 
----
+What I study
 
-## Selected Research
+Statistical Learning & Data Mining
 
-<details>
-<summary><strong>01 · Knowledge Representation for Healthcare Systems</strong></summary>
+Statistical methods, inference, regression, classification, clustering, and learning from structured data
 
-<br>
+Knowledge Representation & Knowledge Graphs
 
-### Published Research — Springer, 2026
+Structured knowledge, ontologies, semantic modelling, graph-based representations, and reasoning
 
-**_Knowledge Representation for Healthcare Systems: A Comparative Analysis of Performance of Different Representation Paradigms_**
+Natural Language Processing
 
-A comparative study of **seven knowledge-representation paradigms** for healthcare question answering across increasing levels of reasoning complexity.
+Text classification and language-oriented analysis of real-world information
 
-The study used a benchmark of **47 cardiovascular patient records and five clinical queries**, evaluating the representation paradigms through **query coverage, reasoning depth, and explainability**.
+Mathematical & Quantitative Modelling
 
-**Key finding:** Knowledge Graphs achieved complete benchmark coverage while supporting **multi-hop and contextual reasoning**.
+Mathematical foundations and computational methods for applied, data-driven problems
 
-**Publication:** *Intelligent Computing: Proceedings of the 2026 Computing Conference*, Springer  
-**DOI:** [10.1007/978-3-032-24807-7_4](https://doi.org/10.1007/978-3-032-24807-7_4)
+Selected Research
 
-</details>
+01 · Knowledge Representation for Healthcare Systems
 
-<br>
+Published Research · Springer · 2026
 
-<details>
-<summary><strong>02 · Geopolitical Risk & High-Frequency Financial Markets</strong></summary>
+Knowledge Representation for Healthcare Systems: A Comparative Analysis of Performance of Different Representation Paradigms
 
-<br>
+A comparative study of seven knowledge-representation paradigms for healthcare question answering, evaluated across increasing levels of reasoning complexity.
 
-### Collaborative Research — Manuscript Under Review
+The study used a benchmark of 47 cardiovascular patient records and five clinical queries, with evaluation based on query coverage, reasoning depth, and explainability.
 
-Ongoing research examining how **geopolitical shocks** are reflected in cryptocurrency and traditional financial markets using **time-stamped geopolitical news** and **hourly financial data**.
+Key result: Knowledge Graphs achieved complete benchmark coverage while supporting multi-hop and contextual reasoning within the experimental framework.
 
-The study develops an **Hourly War Risk Index (HWRI)** to characterize periods of escalation and de-escalation and connects these events with high-frequency market movements.
+My research contribution included work on the comparative framework, benchmark-oriented evaluation, and implementation of knowledge-representation approaches for structured healthcare question answering.
 
-The analysis employs event-study methods based on:
+Publication: Intelligent Computing: Proceedings of the 2026 Computing Conference, Lecture Notes in Networks and Information Systems, vol. 1950, pp. 38–54, Springer, 2026
+DOI: 10.1007/978-3-032-24807-7_4
 
-- **Abnormal Returns (AR)**
-- **Cumulative Abnormal Returns (CAR)**
-- **Cumulative Average Abnormal Returns (CAAR)**
+Research repository:
+Healthcare Knowledge Representation Evaluation →
 
-across multiple event windows.
+02 · Geopolitical Risk & High-Frequency Financial Markets
 
-The broader study brings together **news-based risk measurement, time-series analysis, statistical learning, statistical inference, and financial econometrics** to examine heterogeneous asset-level responses to geopolitical shocks.
+Collaborative Research · 2025–Present · Manuscript Under Review
 
-</details>
+This ongoing study examines how geopolitical shocks are reflected in cryptocurrency and traditional financial markets using time-stamped geopolitical news and hourly financial data.
 
----
+A central component is the construction of an Hourly War Risk Index (HWRI) to characterize periods of escalation and de-escalation and connect these events with high-frequency market movements.
 
-## Technical Toolkit
+The analysis combines:
 
-### Programming & Data
-`Python` · `SQL` · `C` · `C++` · `LaTeX`
+News-based geopolitical risk measurement
 
-### Machine Learning & Data Mining
-`Machine Learning` · `Statistical Learning` · `Regression`  
-`Classification` · `Clustering` · `Data Mining`
+High-frequency event identification
 
-### Natural Language Processing
-`Natural Language Processing` · `Text Classification`
+Abnormal Returns (AR)
 
-### Knowledge Representation
-`Knowledge Graphs` · `Ontologies` · `RDF` · `RDFS` · `OWL` · `SPARQL`
+Cumulative Abnormal Returns (CAR)
 
----
+Cumulative Average Abnormal Returns (CAAR)
 
-## Academic Background
+Statistical inference and multiple-testing control
 
-**M.Sc. Mathematics — Indian Institute of Technology Delhi**  
-`2023–2025` · **CGPA: 7.65/10**
+The research consolidates 3,395 reports into 2,835 unique events and studies asset-level responses across multiple event windows.
 
-**B.Sc. — Government Institute of Science, Nagpur**  
-`2019–2022` · **91.70%**
+How My Research Connects
 
-My postgraduate training included **analysis, algebra, topology, differential equations, probability and statistics, numerical analysis, mathematical programming, machine learning, and data mining**.
+Mathematical Foundations
+          │
+          ▼
+Probability · Statistics · Modelling
+          │
+          ├───────────────┐
+          ▼               ▼
+Statistical Learning   Structured Knowledge
+& Data Mining          & Representation
+          │               │
+          └───────┬───────┘
+                  ▼
+       Real-world Data & Information
+                  │
+                  ▼
+     Learning · Reasoning · Analysis
+                  │
+                  ▼
+        Intelligent Information Systems
 
----
+I am particularly interested in problems where structure matters: how information is represented, how models learn from it, how relationships are encoded, and how reasoning can remain interpretable.
 
-## Academic Highlights
+Technical Toolkit
 
-- **IIT JAM Mathematics 2023 — All India Rank 237**
-- **Gold Medal & Cash Prize** for highest marks in Physics and Mathematics
-- **Shri V. S. Tamma Silver Medal** for highest marks in Physics
-- **4th-highest university rank** in B.Sc.
-- **National Scholarship Portal (NSP) Scholarship**
-- **AASCON Scholarship**
+Programming & Data
 
----
+Python · SQL · C · C++ · LaTeX
 
-## Current Research Direction
+Statistical Learning & Data Mining
 
-I am interested in research questions that connect **mathematical foundations, statistical learning, machine learning, and structured knowledge** to problems involving:
+Statistical Learning · Machine Learning · Regression · Classification · Clustering · Data Mining
 
-`Learning` · `Representation` · `Reasoning` · `Data-driven Modelling` · `Intelligent Systems`
+Natural Language Processing
 
----
+Natural Language Processing · Text Classification
 
+Knowledge Representation
 
+Knowledge Graphs · Ontologies · RDF · RDFS · OWL · SPARQL
 
-> **Mathematical structure helps us understand the problem; data helps us discover what the model may be missing.**
+Academic Formation
+
+Indian Institute of Technology Delhi
+
+M.Sc. Mathematics · 2023–2025
+CGPA: 7.65/10
+
+Postgraduate training across real and complex analysis, measure and integration, functional analysis, abstract and linear algebra, topology, differential equations, numerical analysis, probability and statistics, mathematical programming, machine learning, and data mining.
+
+Government Institute of Science, Nagpur
+
+B.Sc. · 2019–2022
+91.70%
+
+Academic Research Project
+
+Knowledge Representation Schemes: Semantic Net to Knowledge Graph
+
+M.Sc. Research Project · IIT Delhi · 2024–2025
+Supervisor: Prof. Niladri Chatterjee
+
+The project examined the evolution of knowledge representation from formal logic and semantic networks to graph-based representations, with emphasis on structured and relational knowledge.
+
+Work included exploration of RDF/RDFS, triples, classes, properties, semantic relationships, RDF-based modelling, and SPARQL-based information retrieval.
+
+Academic Highlights
+
+IIT JAM Mathematics 2023 — All India Rank 237
+
+4th-highest university rank in B.Sc.
+
+Gold Medal & Cash Prize for highest marks in Physics and Mathematics
+
+Shri V. S. Tamma Silver Medal for highest marks in Physics
+
+National Scholarship Portal (NSP) Scholarship
+
+AASCON Scholarship
+
+Current Research Direction
+
+My broader research interests lie in understanding how mathematical foundations, statistical learning, machine learning, knowledge representation, data mining, and language-oriented methods can be brought together for problems involving:
+
+Learning · Representation · Reasoning · Statistical Inference · Data-driven Modelling · Intelligent Systems
+
+I am especially interested in research that balances mathematical structure, empirical evidence, computational methods, and interpretability.
+
+Publication
+
+Tripathi, Atul Kumar; Thakre, Puja Minodji; Chatterjee, Niladri.
+
+Knowledge Representation for Healthcare Systems: A Comparative Analysis of Performance of Different Representation Paradigms.
+
+Intelligent Computing: Proceedings of the 2026 Computing Conference, Volume 2, Lecture Notes in Networks and Information Systems, vol. 1950, pp. 38–54, Springer, 2026.
+
+DOI: 10.1007/978-3-032-24807-7_4
+
+Connect
+
+For research discussions, academic collaboration, or professional contact:
+
+Email: poojathakre33@gmail.com
+
+Profiles:
+Google Scholar ·
+ORCID ·
+LinkedIn ·
+GitHub
+
+<p align="center">
+  <sub>Mathematics → Structure → Data → Learning → Reasoning</sub>
+</p>
